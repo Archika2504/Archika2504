@@ -46,8 +46,8 @@
 
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| LeetCode | [Archika_25](https://leetcode.com/u/Archika_25/) | Rating 1410 · 274 problems solved |
-| Codeforces | [VENOM_25](https://codeforces.com/profile/VENOM_25) | Rating 1048 |
+| LeetCode | [Archika_25](https://leetcode.com/u/Archika_25/) | Rating 1410 · 450 problems solved |
+| Codeforces | [VENOM_25](https://codeforces.com/profile/VENOM_25) | Rating 1318 |
 
 > 500+ problems solved across LeetCode, CodeChef, and Codeforces
 
